@@ -9,9 +9,6 @@ In addition, I am also well aquainted with computer networks having worked on pr
 I am currently working towards performance optimization of ML models by employing cross-platform frameworks to maximize performance across different hardware implementations.
 
 
-
-
-
 <!--
 **HassanMahmoodKhan/HassanMahmoodKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
