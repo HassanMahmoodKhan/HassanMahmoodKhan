@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-As a Master of Electrical & Computer Engineering candidate at Concordia University in Montreal, Canada, I am deeply passionate about Machine Learning. I am actively engaged in intriguing projects aimed at streamlining various tasks through the efficient automation of machine learning workflows, accomplished by the development of robust ML pipelines.
-
-Furthermore, I possess a strong proficiency in computer networks, gained through my involvement in projects encompassing diverse networking topologies, network architecture enhancement, and the implementation of advanced network emulation and simulation tools. These experiences have enabled me to cultivate a keen sense of network-application awareness.
-
-Presently, my focus is on enhancing the performance of machine learning models by harnessing cross-platform frameworks to maximize efficiency across various hardware implementations.
-
+A recent graduate from Concordia University Montreal, holding a Master's degree in Electrical & Computer Engineering, I am fueled by a profound passion for Machine Learning & Data Science. Actively immersed in captivating projects, I focus on deploying efficient end-to-end machine learning workflows across diverse domains, encompassing areas such as computer vision, predictive modeling, classification, regression, and more. Beyond my expertise in machine learning, I possess a strong foundation in data analytics and processing, gained through hands-on experience. I eagerly embrace opportunities to utilize tools like relational databases and business intelligence tools, leveraging them to advance project objectives.
 
 
 
