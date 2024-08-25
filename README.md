@@ -6,7 +6,7 @@ As a recent graduate from Concordia University Montreal with a Master’s degree
 #### Skills
 - **Programming Languages:** C, C++, Java, Python, R, SQL
 
-- **Tools and Frameworks:** Microsoft Azure, AWS, Docker, Git, GitHub, Keras, Jira, Microsoft Office 365, SQL Server, PostgreSQL, CosmosDB, MATLAB, Matplotlib, Numpy, NLTK, ONNX, OpenVINO, Pandas, MS Power BI, PyTorch, Seaborn, Scikit-Learn, spaCy, Hugging Face Transformers, TensorFlow, TensorRT
+- **Tools and Frameworks:** Microsoft Azure, AWS, Docker, Fairseq, Git, GitHub, Keras, Jira, Microsoft Office 365, SQL Server, PostgreSQL, CosmosDB, MATLAB, Matplotlib, Numpy, NLTK, ONNX, OpenVINO, Pandas, MS Power BI, PyTorch, Seaborn, Scikit-Learn, spaCy, Hugging Face Transformers, TensorFlow, TensorRT
 
 - **Technical Skills:** Academic Research, Computer Networks, Communication Skills, Data Modeling, Database Management, Data Science, Data Visualization, Deep Learning Frameworks, Machine Learning Algorithms, Natural Language Processing, Performance Tuning, Predictive Modeling, Statistical Analysis, Software Engineering
 
